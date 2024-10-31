@@ -40,6 +40,3 @@ Este guia orienta você a configurar notificações automáticas usando hospedag
 
 Para adicionar, remover lojas ou editar apelidos, acesse o arquivo PHP criado. Instruções específicas estão comentadas no código, facilitando as modificações.
 
----
-
-Este README foi atualizado para manter a clareza e facilitar a implementação das notificações.
